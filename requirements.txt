@@ -1,0 +1,2 @@
+# Dieses Projekt verwendet ausschließlich Standardbibliotheken von Python
+# und benötigt keine zusätzlichen externen Pakete.
